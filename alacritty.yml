@@ -7,7 +7,7 @@
 
 ## Import files (Colors, Fonts, Etc)
 import:
-  - /home/ivan/.config/alacritty/colorschemes/dracula.yml
+  - ~/.config/alacritty/colorschemes/dracula.yml
   - ~/.config/alacritty/fonts.yml
 
 ## Set environment variables
